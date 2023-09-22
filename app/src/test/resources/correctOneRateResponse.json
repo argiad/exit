@@ -1,0 +1,10 @@
+{
+  "data": {
+    "id": "bitcoin-cash",
+    "symbol": "BCH",
+    "currencySymbol": null,
+    "type": "crypto",
+    "rateUsd": "208.8094989784116323"
+  },
+  "timestamp": 1695360859968
+}

@@ -1,0 +1,1279 @@
+{
+  "data": [
+    {
+      "id": "armenian-dram",
+      "symbol": "AMD",
+      "currencySymbol": "֏",
+      "type": "fiat",
+      "rateUsd": "0.0025899154277103"
+    },
+    {
+      "id": "botswanan-pula",
+      "symbol": "BWP",
+      "currencySymbol": "P",
+      "type": "fiat",
+      "rateUsd": "0.0733973828254822"
+    },
+    {
+      "id": "south-sudanese-pound",
+      "symbol": "SSP",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.0076769537847382"
+    },
+    {
+      "id": "gibraltar-pound",
+      "symbol": "GIP",
+      "currencySymbol": "£",
+      "type": "fiat",
+      "rateUsd": "1.2284544446096033"
+    },
+    {
+      "id": "silver-ounce",
+      "symbol": "XAG",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "23.5595014055598530"
+    },
+    {
+      "id": "singapore-dollar",
+      "symbol": "SGD",
+      "currencySymbol": "$",
+      "type": "fiat",
+      "rateUsd": "0.7319197523183557"
+    },
+    {
+      "id": "bolivian-boliviano",
+      "symbol": "BOB",
+      "currencySymbol": "$b",
+      "type": "fiat",
+      "rateUsd": "0.1448029846791202"
+    },
+    {
+      "id": "syrian-pound",
+      "symbol": "SYP",
+      "currencySymbol": "£",
+      "type": "fiat",
+      "rateUsd": "0.0003980051979479"
+    },
+    {
+      "id": "paraguayan-guarani",
+      "symbol": "PYG",
+      "currencySymbol": "Gs",
+      "type": "fiat",
+      "rateUsd": "0.0001374444831924"
+    },
+    {
+      "id": "swiss-franc",
+      "symbol": "CHF",
+      "currencySymbol": "CHF",
+      "type": "fiat",
+      "rateUsd": "1.1054817523654545"
+    },
+    {
+      "id": "trinidad-and-tobago-dollar",
+      "symbol": "TTD",
+      "currencySymbol": "TT$",
+      "type": "fiat",
+      "rateUsd": "0.1476693930374472"
+    },
+    {
+      "id": "jamaican-dollar",
+      "symbol": "JMD",
+      "currencySymbol": "J$",
+      "type": "fiat",
+      "rateUsd": "0.0064636701083426"
+    },
+    {
+      "id": "são-tomé-and-príncipe-dobra-(pre-2018)",
+      "symbol": "STD",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.0000448796775844"
+    },
+    {
+      "id": "saudi-riyal",
+      "symbol": "SAR",
+      "currencySymbol": "﷼",
+      "type": "fiat",
+      "rateUsd": "0.2665840611522510"
+    },
+    {
+      "id": "cambodian-riel",
+      "symbol": "KHR",
+      "currencySymbol": "៛",
+      "type": "fiat",
+      "rateUsd": "0.0002433718386733"
+    },
+    {
+      "id": "sudanese-pound",
+      "symbol": "SDG",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.0016625103906899"
+    },
+    {
+      "id": "somali-shilling",
+      "symbol": "SOS",
+      "currencySymbol": "S",
+      "type": "fiat",
+      "rateUsd": "0.0017508307402976"
+    },
+    {
+      "id": "rwandan-franc",
+      "symbol": "RWF",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.0008341001640142"
+    },
+    {
+      "id": "liberian-dollar",
+      "symbol": "LRD",
+      "currencySymbol": "$",
+      "type": "fiat",
+      "rateUsd": "0.0053648063201109"
+    },
+    {
+      "id": "qatari-rial",
+      "symbol": "QAR",
+      "currencySymbol": "﷼",
+      "type": "fiat",
+      "rateUsd": "0.2746498214776160"
+    },
+    {
+      "id": "ghanaian-cedi",
+      "symbol": "GHS",
+      "currencySymbol": "¢",
+      "type": "fiat",
+      "rateUsd": "0.0872064478354575"
+    },
+    {
+      "id": "bulgarian-lev",
+      "symbol": "BGN",
+      "currencySymbol": "лв",
+      "type": "fiat",
+      "rateUsd": "0.5446181110574360"
+    },
+    {
+      "id": "thorchain",
+      "symbol": "RUNE",
+      "currencySymbol": null,
+      "type": "crypto",
+      "rateUsd": "1.7870011778389364"
+    },
+    {
+      "id": "kuwaiti-dinar",
+      "symbol": "KWD",
+      "currencySymbol": "ك",
+      "type": "fiat",
+      "rateUsd": "3.2378491615589597"
+    },
+    {
+      "id": "uruguayan-peso",
+      "symbol": "UYU",
+      "currencySymbol": "$U",
+      "type": "fiat",
+      "rateUsd": "0.0262604683417974"
+    },
+    {
+      "id": "uzbekistan-som",
+      "symbol": "UZS",
+      "currencySymbol": "лв",
+      "type": "fiat",
+      "rateUsd": "0.0000820887627532"
+    },
+    {
+      "id": "nigerian-naira",
+      "symbol": "NGN",
+      "currencySymbol": "₦",
+      "type": "fiat",
+      "rateUsd": "0.0012982629242074"
+    },
+    {
+      "id": "sierra-leonean-leone",
+      "symbol": "SLL",
+      "currencySymbol": "Le",
+      "type": "fiat",
+      "rateUsd": "0.0000476883092110"
+    },
+    {
+      "id": "belarusian-ruble",
+      "symbol": "BYN",
+      "currencySymbol": "Br",
+      "type": "fiat",
+      "rateUsd": "0.3964327396356625"
+    },
+    {
+      "id": "persistence",
+      "symbol": "XPRT",
+      "currencySymbol": null,
+      "type": "crypto",
+      "rateUsd": "0.1721230343683874"
+    },
+    {
+      "id": "kazakhstani-tenge",
+      "symbol": "KZT",
+      "currencySymbol": "лв",
+      "type": "fiat",
+      "rateUsd": "0.0020979964094428"
+    },
+    {
+      "id": "gambian-dalasi",
+      "symbol": "GMD",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.0162206001622060"
+    },
+    {
+      "id": "british-pound-sterling",
+      "symbol": "GBP",
+      "currencySymbol": "£",
+      "type": "fiat",
+      "rateUsd": "1.2284544446096033"
+    },
+    {
+      "id": "special-drawing-rights",
+      "symbol": "XDR",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "1.3196389995552817"
+    },
+    {
+      "id": "bermudan-dollar",
+      "symbol": "BMD",
+      "currencySymbol": "$",
+      "type": "fiat",
+      "rateUsd": "1.0000000000000000"
+    },
+    {
+      "id": "turkmenistani-manat",
+      "symbol": "TMT",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.2857142857142857"
+    },
+    {
+      "id": "iranian-rial",
+      "symbol": "IRR",
+      "currencySymbol": "﷼",
+      "type": "fiat",
+      "rateUsd": "0.0000236672386249"
+    },
+    {
+      "id": "indonesian-rupiah",
+      "symbol": "IDR",
+      "currencySymbol": "Rp",
+      "type": "fiat",
+      "rateUsd": "0.0000650407103328"
+    },
+    {
+      "id": "mozambican-metical",
+      "symbol": "MZN",
+      "currencySymbol": "MT",
+      "type": "fiat",
+      "rateUsd": "0.0156433290931568"
+    },
+    {
+      "id": "belize-dollar",
+      "symbol": "BZD",
+      "currencySymbol": "BZ$",
+      "type": "fiat",
+      "rateUsd": "0.4964272133455521"
+    },
+    {
+      "id": "guyanaese-dollar",
+      "symbol": "GYD",
+      "currencySymbol": "$",
+      "type": "fiat",
+      "rateUsd": "0.0047791465800530"
+    },
+    {
+      "id": "ethiopian-birr",
+      "symbol": "ETB",
+      "currencySymbol": "Br",
+      "type": "fiat",
+      "rateUsd": "0.0180935676281468"
+    },
+    {
+      "id": "hong-kong-dollar",
+      "symbol": "HKD",
+      "currencySymbol": "$",
+      "type": "fiat",
+      "rateUsd": "0.1278878679174100"
+    },
+    {
+      "id": "jordanian-dinar",
+      "symbol": "JOD",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "1.4100394811054708"
+    },
+    {
+      "id": "thai-baht",
+      "symbol": "THB",
+      "currencySymbol": "฿",
+      "type": "fiat",
+      "rateUsd": "0.0276094369055343"
+    },
+    {
+      "id": "seychellois-rupee",
+      "symbol": "SCR",
+      "currencySymbol": "₨",
+      "type": "fiat",
+      "rateUsd": "0.0765988516606554"
+    },
+    {
+      "id": "colombian-peso",
+      "symbol": "COP",
+      "currencySymbol": "$",
+      "type": "fiat",
+      "rateUsd": "0.0002550784163904"
+    },
+    {
+      "id": "maldivian-rufiyaa",
+      "symbol": "MVR",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.0650406504065041"
+    },
+    {
+      "id": "guatemalan-quetzal",
+      "symbol": "GTQ",
+      "currencySymbol": "Q",
+      "type": "fiat",
+      "rateUsd": "0.1272233553582406"
+    },
+    {
+      "id": "cayman-islands-dollar",
+      "symbol": "KYD",
+      "currencySymbol": "$",
+      "type": "fiat",
+      "rateUsd": "1.2006978455878556"
+    },
+    {
+      "id": "saint-helena-pound",
+      "symbol": "SHP",
+      "currencySymbol": "£",
+      "type": "fiat",
+      "rateUsd": "1.2284544446096033"
+    },
+    {
+      "id": "lesotho-loti",
+      "symbol": "LSL",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.0530374916194134"
+    },
+    {
+      "id": "jersey-pound",
+      "symbol": "JEP",
+      "currencySymbol": "£",
+      "type": "fiat",
+      "rateUsd": "1.2284544446096033"
+    },
+    {
+      "id": "japanese-yen",
+      "symbol": "JPY",
+      "currencySymbol": "¥",
+      "type": "fiat",
+      "rateUsd": "0.0067556612441226"
+    },
+    {
+      "id": "philippine-peso",
+      "symbol": "PHP",
+      "currencySymbol": "₱",
+      "type": "fiat",
+      "rateUsd": "0.0176033097320479"
+    },
+    {
+      "id": "chinese-yuan-(offshore)",
+      "symbol": "CNH",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.1368932889434028"
+    },
+    {
+      "id": "guinean-franc",
+      "symbol": "GNF",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.0001165377792876"
+    },
+    {
+      "id": "brazilian-real",
+      "symbol": "BRL",
+      "currencySymbol": "R$",
+      "type": "fiat",
+      "rateUsd": "0.2025644251089948"
+    },
+    {
+      "id": "georgian-lari",
+      "symbol": "GEL",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.3717472118959108"
+    },
+    {
+      "id": "bitcoin",
+      "symbol": "BTC",
+      "currencySymbol": "₿",
+      "type": "crypto",
+      "rateUsd": "26630.8833414557155992"
+    },
+    {
+      "id": "cfp-franc",
+      "symbol": "XPF",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.0089287224196452"
+    },
+    {
+      "id": "bhutanese-ngultrum",
+      "symbol": "BTN",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.0120370950045659"
+    },
+    {
+      "id": "qtum",
+      "symbol": "QTUM",
+      "currencySymbol": null,
+      "type": "crypto",
+      "rateUsd": "2.2027508031042004"
+    },
+    {
+      "id": "dominican-peso",
+      "symbol": "DOP",
+      "currencySymbol": "RD$",
+      "type": "fiat",
+      "rateUsd": "0.0176211990919373"
+    },
+    {
+      "id": "australian-dollar",
+      "symbol": "AUD",
+      "currencySymbol": "$",
+      "type": "fiat",
+      "rateUsd": "0.6425244528743652"
+    },
+    {
+      "id": "chilean-unit-of-account-(uf)",
+      "symbol": "CLF",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "31.0135218955464570"
+    },
+    {
+      "id": "danish-krone",
+      "symbol": "DKK",
+      "currencySymbol": "kr",
+      "type": "fiat",
+      "rateUsd": "0.1429149213181901"
+    },
+    {
+      "id": "kenyan-shilling",
+      "symbol": "KES",
+      "currencySymbol": "KSh",
+      "type": "fiat",
+      "rateUsd": "0.0067888662593347"
+    },
+    {
+      "id": "tanzanian-shilling",
+      "symbol": "TZS",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.0004000000000000"
+    },
+    {
+      "id": "fijian-dollar",
+      "symbol": "FJD",
+      "currencySymbol": "$",
+      "type": "fiat",
+      "rateUsd": "0.4411797145567247"
+    },
+    {
+      "id": "ethereum",
+      "symbol": "ETH",
+      "currencySymbol": null,
+      "type": "crypto",
+      "rateUsd": "1593.7751824578291574"
+    },
+    {
+      "id": "multi-collateral-dai",
+      "symbol": "DAI",
+      "currencySymbol": null,
+      "type": "crypto",
+      "rateUsd": "1.0027027641587169"
+    },
+    {
+      "id": "laotian-kip",
+      "symbol": "LAK",
+      "currencySymbol": "₭",
+      "type": "fiat",
+      "rateUsd": "0.0000497042353526"
+    },
+    {
+      "id": "tunisian-dinar",
+      "symbol": "TND",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.3172588832487310"
+    },
+    {
+      "id": "mauritian-rupee",
+      "symbol": "MUR",
+      "currencySymbol": "₨",
+      "type": "fiat",
+      "rateUsd": "0.0223964185797463"
+    },
+    {
+      "id": "cfa-franc-bceao",
+      "symbol": "XOF",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.0016243137891480"
+    },
+    {
+      "id": "samoan-tala",
+      "symbol": "WST",
+      "currencySymbol": "$",
+      "type": "fiat",
+      "rateUsd": "0.3678499172337686"
+    },
+    {
+      "id": "mongolian-tugrik",
+      "symbol": "MNT",
+      "currencySymbol": "₮",
+      "type": "fiat",
+      "rateUsd": "0.0002898550724638"
+    },
+    {
+      "id": "binance-coin",
+      "symbol": "BNB",
+      "currencySymbol": null,
+      "type": "crypto",
+      "rateUsd": "211.2210699988249842"
+    },
+    {
+      "id": "sentinel",
+      "symbol": "DVPN",
+      "currencySymbol": null,
+      "type": "crypto",
+      "rateUsd": "0.0004548767000589"
+    },
+    {
+      "id": "bosnia-herzegovina-convertible-mark",
+      "symbol": "BAM",
+      "currencySymbol": "KM",
+      "type": "fiat",
+      "rateUsd": "0.5449175539740837"
+    },
+    {
+      "id": "guernsey-pound",
+      "symbol": "GGP",
+      "currencySymbol": "£",
+      "type": "fiat",
+      "rateUsd": "1.2284544446096033"
+    },
+    {
+      "id": "djiboutian-franc",
+      "symbol": "DJF",
+      "currencySymbol": "$",
+      "type": "fiat",
+      "rateUsd": "0.0056200488634024"
+    },
+    {
+      "id": "costa-rican-colón",
+      "symbol": "CRC",
+      "currencySymbol": "₡",
+      "type": "fiat",
+      "rateUsd": "0.0018762848047829"
+    },
+    {
+      "id": "czech-republic-koruna",
+      "symbol": "CZK",
+      "currencySymbol": "Kč",
+      "type": "fiat",
+      "rateUsd": "0.0435995833449417"
+    },
+    {
+      "id": "platinum-ounce",
+      "symbol": "XPT",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "930.6567644786925000"
+    },
+    {
+      "id": "pakistani-rupee",
+      "symbol": "PKR",
+      "currencySymbol": "₨",
+      "type": "fiat",
+      "rateUsd": "0.0034578677606872"
+    },
+    {
+      "id": "lebanese-pound",
+      "symbol": "LBP",
+      "currencySymbol": "£",
+      "type": "fiat",
+      "rateUsd": "0.0000665753371456"
+    },
+    {
+      "id": "polish-zloty",
+      "symbol": "PLN",
+      "currencySymbol": "zł",
+      "type": "fiat",
+      "rateUsd": "0.2310490133513983"
+    },
+    {
+      "id": "argentine-peso",
+      "symbol": "ARS",
+      "currencySymbol": "$",
+      "type": "fiat",
+      "rateUsd": "0.0028568318705878"
+    },
+    {
+      "id": "comorian-franc",
+      "symbol": "KMF",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.0021666131256842"
+    },
+    {
+      "id": "honduran-lempira",
+      "symbol": "HNL",
+      "currencySymbol": "L",
+      "type": "fiat",
+      "rateUsd": "0.0406042595979740"
+    },
+    {
+      "id": "yemeni-rial",
+      "symbol": "YER",
+      "currencySymbol": "﷼",
+      "type": "fiat",
+      "rateUsd": "0.0039948071023100"
+    },
+    {
+      "id": "south-african-rand",
+      "symbol": "ZAR",
+      "currencySymbol": "R",
+      "type": "fiat",
+      "rateUsd": "0.0528722869907738"
+    },
+    {
+      "id": "crypto-com-coin",
+      "symbol": "CRO",
+      "currencySymbol": null,
+      "type": "crypto",
+      "rateUsd": "0.0500964441705085"
+    },
+    {
+      "id": "papua-new-guinean-kina",
+      "symbol": "PGK",
+      "currencySymbol": "K",
+      "type": "fiat",
+      "rateUsd": "0.2713852971044817"
+    },
+    {
+      "id": "turkish-lira",
+      "symbol": "TRY",
+      "currencySymbol": "Kr",
+      "type": "fiat",
+      "rateUsd": "0.0368541299898972"
+    },
+    {
+      "id": "barbadian-dollar",
+      "symbol": "BBD",
+      "currencySymbol": "$",
+      "type": "fiat",
+      "rateUsd": "0.5000000000000000"
+    },
+    {
+      "id": "iraqi-dinar",
+      "symbol": "IQD",
+      "currencySymbol": "د.ع",
+      "type": "fiat",
+      "rateUsd": "0.0007640872407365"
+    },
+    {
+      "id": "libyan-dinar",
+      "symbol": "LYD",
+      "currencySymbol": "LD",
+      "type": "fiat",
+      "rateUsd": "0.2057393882709621"
+    },
+    {
+      "id": "brunei-dollar",
+      "symbol": "BND",
+      "currencySymbol": "$",
+      "type": "fiat",
+      "rateUsd": "0.7315990047327140"
+    },
+    {
+      "id": "cuban-convertible-peso",
+      "symbol": "CUC",
+      "currencySymbol": "$",
+      "type": "fiat",
+      "rateUsd": "1.0000000000000000"
+    },
+    {
+      "id": "tajikistani-somoni",
+      "symbol": "TJS",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.0910928583290163"
+    },
+    {
+      "id": "congolese-franc",
+      "symbol": "CDF",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.0004031489018971"
+    },
+    {
+      "id": "eos",
+      "symbol": "EOS",
+      "currencySymbol": null,
+      "type": "crypto",
+      "rateUsd": "0.5756519889746928"
+    },
+    {
+      "id": "nicaraguan-córdoba",
+      "symbol": "NIO",
+      "currencySymbol": "C$",
+      "type": "fiat",
+      "rateUsd": "0.0273474467124746"
+    },
+    {
+      "id": "solomon-islands-dollar",
+      "symbol": "SBD",
+      "currencySymbol": "$",
+      "type": "fiat",
+      "rateUsd": "0.1189323254849495"
+    },
+    {
+      "id": "united-arab-emirates-dirham",
+      "symbol": "AED",
+      "currencySymbol": "فلس",
+      "type": "fiat",
+      "rateUsd": "0.2722633112936183"
+    },
+    {
+      "id": "bitcoin-cash",
+      "symbol": "BCH",
+      "currencySymbol": null,
+      "type": "crypto",
+      "rateUsd": "208.6549318726508080"
+    },
+    {
+      "id": "macanese-pataca",
+      "symbol": "MOP",
+      "currencySymbol": "MOP$",
+      "type": "fiat",
+      "rateUsd": "0.1242074940839971"
+    },
+    {
+      "id": "falkland-islands-pound",
+      "symbol": "FKP",
+      "currencySymbol": "£",
+      "type": "fiat",
+      "rateUsd": "1.2284544446096033"
+    },
+    {
+      "id": "dash",
+      "symbol": "DASH",
+      "currencySymbol": null,
+      "type": "crypto",
+      "rateUsd": "26.7368232724811414"
+    },
+    {
+      "id": "moroccan-dirham",
+      "symbol": "MAD",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.0977779185779805"
+    },
+    {
+      "id": "cfa-franc-beac",
+      "symbol": "XAF",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.0016243137891480"
+    },
+    {
+      "id": "zambian-kwacha",
+      "symbol": "ZMW",
+      "currencySymbol": "ZK",
+      "type": "fiat",
+      "rateUsd": "0.0479346010980763"
+    },
+    {
+      "id": "croatian-kuna",
+      "symbol": "HRK",
+      "currencySymbol": "kn",
+      "type": "fiat",
+      "rateUsd": "0.1414176325726668"
+    },
+    {
+      "id": "malaysian-ringgit",
+      "symbol": "MYR",
+      "currencySymbol": "RM",
+      "type": "fiat",
+      "rateUsd": "0.2132514447785384"
+    },
+    {
+      "id": "south-korean-won",
+      "symbol": "KRW",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.0007485198984599"
+    },
+    {
+      "id": "vietnamese-dong",
+      "symbol": "VND",
+      "currencySymbol": "₫",
+      "type": "fiat",
+      "rateUsd": "0.0000411184210526"
+    },
+    {
+      "id": "icelandic-króna",
+      "symbol": "ISK",
+      "currencySymbol": "kr",
+      "type": "fiat",
+      "rateUsd": "0.0073324534389207"
+    },
+    {
+      "id": "peruvian-nuevo-sol",
+      "symbol": "PEN",
+      "currencySymbol": "S/.",
+      "type": "fiat",
+      "rateUsd": "0.2687622958750363"
+    },
+    {
+      "id": "litecoin",
+      "symbol": "LTC",
+      "currencySymbol": null,
+      "type": "crypto",
+      "rateUsd": "64.7912939739437868"
+    },
+    {
+      "id": "afghan-afghani",
+      "symbol": "AFN",
+      "currencySymbol": "؋ ",
+      "type": "fiat",
+      "rateUsd": "0.0126782059724924"
+    },
+    {
+      "id": "dogecoin",
+      "symbol": "DOGE",
+      "currencySymbol": null,
+      "type": "crypto",
+      "rateUsd": "0.0615814828064939"
+    },
+    {
+      "id": "malawian-kwacha",
+      "symbol": "MWK",
+      "currencySymbol": "MK",
+      "type": "fiat",
+      "rateUsd": "0.0009205606682114"
+    },
+    {
+      "id": "united-states-dollar",
+      "symbol": "USD",
+      "currencySymbol": "$",
+      "type": "fiat",
+      "rateUsd": "1.0000000000000000"
+    },
+    {
+      "id": "chinese-yuan-renminbi",
+      "symbol": "CNY",
+      "currencySymbol": "¥",
+      "type": "fiat",
+      "rateUsd": "0.1369581592823393"
+    },
+    {
+      "id": "nepalese-rupee",
+      "symbol": "NPR",
+      "currencySymbol": "₨",
+      "type": "fiat",
+      "rateUsd": "0.0075230471747494"
+    },
+    {
+      "id": "serbian-dinar",
+      "symbol": "RSD",
+      "currencySymbol": "Дин.",
+      "type": "fiat",
+      "rateUsd": "0.0090830711436725"
+    },
+    {
+      "id": "bahraini-dinar",
+      "symbol": "BHD",
+      "currencySymbol": "BD",
+      "type": "fiat",
+      "rateUsd": "2.6524495371475556"
+    },
+    {
+      "id": "new-taiwan-dollar",
+      "symbol": "TWD",
+      "currencySymbol": "NT$",
+      "type": "fiat",
+      "rateUsd": "0.0310983953228013"
+    },
+    {
+      "id": "russian-ruble",
+      "symbol": "RUB",
+      "currencySymbol": "₽",
+      "type": "fiat",
+      "rateUsd": "0.0104088072582112"
+    },
+    {
+      "id": "tether",
+      "symbol": "USDT",
+      "currencySymbol": null,
+      "type": "crypto",
+      "rateUsd": "1.0002242406821816"
+    },
+    {
+      "id": "romanian-leu",
+      "symbol": "RON",
+      "currencySymbol": "lei",
+      "type": "fiat",
+      "rateUsd": "0.2143576772202097"
+    },
+    {
+      "id": "ugandan-shilling",
+      "symbol": "UGX",
+      "currencySymbol": "UGX",
+      "type": "fiat",
+      "rateUsd": "0.0002665051807307"
+    },
+    {
+      "id": "cape-verdean-escudo",
+      "symbol": "CVE",
+      "currencySymbol": "$",
+      "type": "fiat",
+      "rateUsd": "0.0096653508547973"
+    },
+    {
+      "id": "algerian-dinar",
+      "symbol": "DZD",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.0072843642963323"
+    },
+    {
+      "id": "israeli-new-sheqel",
+      "symbol": "ILS",
+      "currencySymbol": "₪",
+      "type": "fiat",
+      "rateUsd": "0.2621063653841366"
+    },
+    {
+      "id": "zcash",
+      "symbol": "ZEC",
+      "currencySymbol": null,
+      "type": "crypto",
+      "rateUsd": "26.2786209953761010"
+    },
+    {
+      "id": "omani-rial",
+      "symbol": "OMR",
+      "currencySymbol": "﷼",
+      "type": "fiat",
+      "rateUsd": "2.5974228370610684"
+    },
+    {
+      "id": "mauritanian-ouguiya",
+      "symbol": "MRU",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.0263013327385024"
+    },
+    {
+      "id": "sri-lankan-rupee",
+      "symbol": "LKR",
+      "currencySymbol": "₨",
+      "type": "fiat",
+      "rateUsd": "0.0030716491309750"
+    },
+    {
+      "id": "macedonian-denar",
+      "symbol": "MKD",
+      "currencySymbol": "ден",
+      "type": "fiat",
+      "rateUsd": "0.0172969233097663"
+    },
+    {
+      "id": "north-korean-won",
+      "symbol": "KPW",
+      "currencySymbol": "₩",
+      "type": "fiat",
+      "rateUsd": "0.0011111111111111"
+    },
+    {
+      "id": "panamanian-balboa",
+      "symbol": "PAB",
+      "currencySymbol": "B/.",
+      "type": "fiat",
+      "rateUsd": "1.0000000000000000"
+    },
+    {
+      "id": "moldovan-leu",
+      "symbol": "MDL",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.0551477349915301"
+    },
+    {
+      "id": "ukrainian-hryvnia",
+      "symbol": "UAH",
+      "currencySymbol": "₴",
+      "type": "fiat",
+      "rateUsd": "0.0270946941950566"
+    },
+    {
+      "id": "bangladeshi-taka",
+      "symbol": "BDT",
+      "currencySymbol": "Tk",
+      "type": "fiat",
+      "rateUsd": "0.0091175444220896"
+    },
+    {
+      "id": "myanma-kyat",
+      "symbol": "MMK",
+      "currencySymbol": "K",
+      "type": "fiat",
+      "rateUsd": "0.0004764947058074"
+    },
+    {
+      "id": "azerbaijani-manat",
+      "symbol": "AZN",
+      "currencySymbol": "₼",
+      "type": "fiat",
+      "rateUsd": "0.5882352941176471"
+    },
+    {
+      "id": "burundian-franc",
+      "symbol": "BIF",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.0003531095526896"
+    },
+    {
+      "id": "haitian-gourde",
+      "symbol": "HTG",
+      "currencySymbol": "G",
+      "type": "fiat",
+      "rateUsd": "0.0073849353227364"
+    },
+    {
+      "id": "vanuatu-vatu",
+      "symbol": "VUV",
+      "currencySymbol": "VT",
+      "type": "fiat",
+      "rateUsd": "0.0084230386954398"
+    },
+    {
+      "id": "gold-ounce",
+      "symbol": "XAU",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "1924.3351422083670000"
+    },
+    {
+      "id": "manx-pound",
+      "symbol": "IMP",
+      "currencySymbol": "£",
+      "type": "fiat",
+      "rateUsd": "1.2284544446096033"
+    },
+    {
+      "id": "surinamese-dollar",
+      "symbol": "SRD",
+      "currencySymbol": "$",
+      "type": "fiat",
+      "rateUsd": "0.0260756192959583"
+    },
+    {
+      "id": "swedish-krona",
+      "symbol": "SEK",
+      "currencySymbol": "kr",
+      "type": "fiat",
+      "rateUsd": "0.0894901593488624"
+    },
+    {
+      "id": "venezuelan-bolívar-soberano",
+      "symbol": "VES",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.0295102665036756"
+    },
+    {
+      "id": "cuban-peso",
+      "symbol": "CUP",
+      "currencySymbol": "₱",
+      "type": "fiat",
+      "rateUsd": "0.0388349514563107"
+    },
+    {
+      "id": "waves",
+      "symbol": "WAVES",
+      "currencySymbol": null,
+      "type": "crypto",
+      "rateUsd": "1.5508804793459555"
+    },
+    {
+      "id": "canadian-dollar",
+      "symbol": "CAD",
+      "currencySymbol": "$",
+      "type": "fiat",
+      "rateUsd": "0.7427340187778015"
+    },
+    {
+      "id": "são-tomé-and-príncipe-dobra",
+      "symbol": "STN",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.0434991839770582"
+    },
+    {
+      "id": "angolan-kwanza",
+      "symbol": "AOA",
+      "currencySymbol": "Kz",
+      "type": "fiat",
+      "rateUsd": "0.0012060545865106"
+    },
+    {
+      "id": "egyptian-pound",
+      "symbol": "EGP",
+      "currencySymbol": "£",
+      "type": "fiat",
+      "rateUsd": "0.0323620406208334"
+    },
+    {
+      "id": "palladium-ounce",
+      "symbol": "XPD",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "1276.8130745658837000"
+    },
+    {
+      "id": "new-zealand-dollar",
+      "symbol": "NZD",
+      "currencySymbol": "$",
+      "type": "fiat",
+      "rateUsd": "0.5936870877214231"
+    },
+    {
+      "id": "eritrean-nakfa",
+      "symbol": "ERN",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.0666666666666667"
+    },
+    {
+      "id": "indian-rupee",
+      "symbol": "INR",
+      "currencySymbol": "₹",
+      "type": "fiat",
+      "rateUsd": "0.0120570397329375"
+    },
+    {
+      "id": "zimbabwean-dollar",
+      "symbol": "ZWL",
+      "currencySymbol": "$",
+      "type": "fiat",
+      "rateUsd": "0.0031055900621118"
+    },
+    {
+      "id": "euro",
+      "symbol": "EUR",
+      "currencySymbol": "€",
+      "type": "fiat",
+      "rateUsd": "1.0654801479738830"
+    },
+    {
+      "id": "chilean-peso",
+      "symbol": "CLP",
+      "currencySymbol": "$",
+      "type": "fiat",
+      "rateUsd": "0.0011239491075844"
+    },
+    {
+      "id": "salvadoran-colón",
+      "symbol": "SVC",
+      "currencySymbol": "$",
+      "type": "fiat",
+      "rateUsd": "0.1143620558592313"
+    },
+    {
+      "id": "malagasy-ariary",
+      "symbol": "MGA",
+      "currencySymbol": "Ar",
+      "type": "fiat",
+      "rateUsd": "0.0002208775084651"
+    },
+    {
+      "id": "aruban-florin",
+      "symbol": "AWG",
+      "currencySymbol": "ƒ",
+      "type": "fiat",
+      "rateUsd": "0.5547850208044383"
+    },
+    {
+      "id": "hungarian-forint",
+      "symbol": "HUF",
+      "currencySymbol": "Ft",
+      "type": "fiat",
+      "rateUsd": "0.0027477267225637"
+    },
+    {
+      "id": "netherlands-antillean-guilder",
+      "symbol": "ANG",
+      "currencySymbol": "ƒ",
+      "type": "fiat",
+      "rateUsd": "0.5552150236743686"
+    },
+    {
+      "id": "east-caribbean-dollar",
+      "symbol": "XCD",
+      "currencySymbol": "$",
+      "type": "fiat",
+      "rateUsd": "0.3700209061811993"
+    },
+    {
+      "id": "kyrgystani-som",
+      "symbol": "KGS",
+      "currencySymbol": "лв",
+      "type": "fiat",
+      "rateUsd": "0.0112726862811408"
+    },
+    {
+      "id": "norwegian-krone",
+      "symbol": "NOK",
+      "currencySymbol": "kr",
+      "type": "fiat",
+      "rateUsd": "0.0928721981038283"
+    },
+    {
+      "id": "mexican-peso",
+      "symbol": "MXN",
+      "currencySymbol": "$",
+      "type": "fiat",
+      "rateUsd": "0.0581170145405865"
+    },
+    {
+      "id": "namibian-dollar",
+      "symbol": "NAD",
+      "currencySymbol": "$",
+      "type": "fiat",
+      "rateUsd": "0.0529380624669137"
+    },
+    {
+      "id": "swazi-lilangeni",
+      "symbol": "SZL",
+      "currencySymbol": null,
+      "type": "fiat",
+      "rateUsd": "0.0530636314127996"
+    }
+  ],
+  "timestamp": 1695360218971
+}
