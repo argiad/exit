@@ -1,6 +1,6 @@
 object Versions {
 
-    const val hilt = "2.44"
+    const val hilt = "2.46.1"
     const val hiltCompose = "1.1.0-alpha01"
     const val roomVersion = "2.5.2"
     const val kotlinSerialization = "1.5.1"
