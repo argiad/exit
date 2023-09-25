@@ -22,6 +22,7 @@ object Dependencies {
     const val composeUiGraphics = "androidx.compose.ui:ui-graphics"
     const val composeUiToolingPreview = "androidx.compose.ui:ui-tooling-preview"
     const val composeMaterial3 = "androidx.compose.material3:material3"
+    const val composeMaterial = "androidx.compose.material:material"
     const val composeLiveData = "androidx.compose.runtime:runtime-livedata"
     const val composeDebugUiTooling = "androidx.compose.ui:ui-tooling"
     const val composeDebugUiTest = "androidx.compose.ui:ui-test-manifest"
@@ -48,6 +49,7 @@ fun DependencyHandler.compose() {
     implementation(Dependencies.composeUiToolingPreview)
     implementation(Dependencies.composeMaterial3)
     implementation(Dependencies.composeLiveData)
+    implementation(Dependencies.composeMaterial)
 }
 
 fun DependencyHandler.composeDebug() {

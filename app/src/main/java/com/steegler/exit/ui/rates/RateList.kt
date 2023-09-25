@@ -1,10 +1,11 @@
-@file:OptIn(ExperimentalFoundationApi::class, ExperimentalFoundationApi::class)
+@file:OptIn(ExperimentalFoundationApi::class, ExperimentalFoundationApi::class, ExperimentalMaterialApi::class)
 
 package com.steegler.exit.ui.rates
 
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
@@ -16,9 +17,13 @@ import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.lazy.rememberLazyListState
 import androidx.compose.foundation.selection.selectable
+import androidx.compose.material.ExperimentalMaterialApi
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.rounded.ExitToApp
 import androidx.compose.material.icons.twotone.DateRange
+import androidx.compose.material.pullrefresh.PullRefreshIndicator
+import androidx.compose.material.pullrefresh.pullRefresh
+import androidx.compose.material.pullrefresh.rememberPullRefreshState
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
@@ -27,8 +32,10 @@ import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBar
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.livedata.observeAsState
+import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
@@ -48,15 +55,16 @@ fun RateListScreen(
 ) {
     val rates by viewModel.rates.observeAsState()
     val llState = rememberLazyListState(initialFirstVisibleItemIndex = rates?.size ?: 0)
-    var groupedRates: Map<Char, List<RateEntity>> = emptyMap()
+    val groupedRates by viewModel.groupedRates.collectAsState()
+    val refreshing by viewModel.isRefreshing.collectAsState()
+    val pullRefreshState = rememberPullRefreshState(refreshing, {
+        viewModel.requestData()
+    })
+
     LaunchedEffect(Unit) {
         viewModel.requestData()
     }
-    // Just for fun .....
-    LaunchedEffect(rates) {
-        groupedRates = rates?.reversed()?.groupBy { it.symbol.first() }?.toSortedMap() ?: emptyMap()
-//        llState.scrollToItem(rates?.size ?: 0)
-    }
+
     Scaffold(
         topBar = {
             TopAppBar(
@@ -66,22 +74,25 @@ fun RateListScreen(
             )
         }
     ) { innerPadding ->
-        LazyColumn(
-            state = llState,
-            verticalArrangement = Arrangement.spacedBy(8.dp),
-            modifier = Modifier
-                .background(Color.Transparent)
-                .padding(innerPadding)
-                .padding(8.dp, end = 8.dp)
-        ) {
-            groupedRates.forEach { group ->
-                stickyHeader {
-                    GroupHeader(text = "${group.key}".uppercase(Locale.getDefault()))
-                }
-                items(group.value) {
-                    RateItem(rate = it) { selectedRate(it.id) }
+        Box(Modifier.pullRefresh(pullRefreshState)) {
+            LazyColumn(
+                state = llState,
+                verticalArrangement = Arrangement.spacedBy(8.dp),
+                modifier = Modifier
+                    .background(Color.Transparent)
+                    .padding(innerPadding)
+                    .padding(8.dp, end = 8.dp)
+            ) {
+                groupedRates.forEach { group ->
+                    stickyHeader {
+                        GroupHeader(text = "${group.key}".uppercase(Locale.getDefault()))
+                    }
+                    items(group.value) {
+                        RateItem(rate = it) { selectedRate(it.id) }
+                    }
                 }
             }
+            PullRefreshIndicator(refreshing, pullRefreshState, Modifier.align(Alignment.TopCenter))
         }
     }
 }
